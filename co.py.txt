@@ -1,0 +1,4 @@
+nom = "monse"
+ape="perez cortes"
+print("hola " +nom + " " + ape+"como estas")
+
