@@ -1,4 +1,4 @@
-nom = "monse"
-ape="perez cortes"
+nom = "soy monsexdS"
+ape="perez cortes pc"
 print("hola " +nom + " " + ape+"como estas")
 
