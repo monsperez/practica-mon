@@ -1,4 +1,4 @@
-nom = "soy cam"
+nom = "soy lupita"
 ape="perez cortes pc"
 print("hola " +nom + " " + ape+"como estas")
 
